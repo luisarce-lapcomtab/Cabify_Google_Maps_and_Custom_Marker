@@ -1,4 +1,4 @@
-# Cabify_Google_Maps_and_Custom_Marker
+# Cabify Google Maps and Custom Marker
 
 A new Flutter project.
 
